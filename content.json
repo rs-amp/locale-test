@@ -1,0 +1,62 @@
+{
+  "id": "eb4ee5a2-dabc-409b-9463-61a0d4be5106",
+  "contentRepositoryId": "5d9b1db74cedfd0001555b9f",
+  "folderId": "60520e664cedfd0001e39645",
+  "body": {
+    "_meta": {
+      "name": "Willow banner the second",
+      "schema": "https://raw.githubusercontent.com/neilmistryamplience/dc-example-website/willow/content-types/banner.json"
+    },
+    "img": {
+      "image": {
+        "_meta": {
+          "schema": "http://bigcontent.io/cms/schema/v1/core#/definitions/image-link"
+        },
+        "id": "e7e4f349-86d3-4c95-a627-9119fa5d74bd",
+        "name": "media-link-demo",
+        "endpoint": "amptrain",
+        "defaultHost": "cdn.media.amplience.net"
+      },
+      "_meta": {
+        "schema": "https://raw.githubusercontent.com/neilmistryamplience/dc-example-website/willow/content-types/image.json"
+      }
+    },
+    "header": {
+      "values": [
+        {
+          "locale": "en-GB",
+          "value": "Willow banner the second"
+        }
+      ],
+      "_meta": {
+        "schema": "http://bigcontent.io/cms/schema/v1/core#/definitions/localized-value"
+      }
+    },
+    "stackMobileLayout": false,
+    "hideBG": false,
+    "contentImg": {
+      "image": {
+        "_meta": {
+          "schema": "http://bigcontent.io/cms/schema/v1/core#/definitions/image-link"
+        },
+        "id": "e7e4f349-86d3-4c95-a627-9119fa5d74bd",
+        "name": "media-link-demo",
+        "endpoint": "amptrain",
+        "defaultHost": "cdn.media.amplience.net"
+      },
+      "_meta": {
+        "schema": "https://raw.githubusercontent.com/neilmistryamplience/dc-example-website/willow/content-types/image.json"
+      }
+    },
+    "analyticsEventLabel": "?"
+  },
+  "version": 1,
+  "label": "Willow banner the second",
+  "status": "ACTIVE",
+  "createdBy": "dc195cf0-3b15-4c40-9ccd-49e49cb3bae1",
+  "locale": "en-GB",
+  "createdDate": "2021-03-17T14:42:34.186Z",
+  "lastModifiedBy": "8113934d-df4a-45b9-bcb8-22680b3338bc",
+  "lastModifiedDate": "2021-03-29T11:46:04.111Z",
+  "deliveryId": "eb4ee5a2-dabc-409b-9463-61a0d4be5106"
+}
